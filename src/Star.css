@@ -1,0 +1,11 @@
+.star{
+    position: relative;
+    left:1em;
+    display: flex;
+    gap: 3px;
+}
+.number-of-stars{
+    position: relative;
+    left:2em;
+    color:#FFBA5A
+}

@@ -1,0 +1,46 @@
+.nav-bar-container{
+    display: flex;
+    background-color: rgb(101, 42, 168);
+    justify-content: space-between;
+    align-items: center;
+    height: 2rem;
+    width: 92%;
+    margin: 1rem 1rem;
+    padding: 1.1rem 3rem;
+    border-radius: 10px;
+}
+.logo{
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.form-input{
+    display: flex;
+    gap:13px
+}
+.form-input>input{
+    height: 2.6rem;
+    width: 25em;
+    border-radius: 7px;
+    border: none;
+    background-color: blueviolet;
+    color: wheat;
+    padding-left: 2rem;
+    outline: none;
+    font-size: large;
+}
+.form-input>button{
+    width: 6em;
+    border-radius: 7px;
+    border: none;
+    background-color: blueviolet;
+    color: wheat;
+}
+input::placeholder{
+    color: white;
+}
+.nav-bar-container>p{
+    color: white;
+    font-size: large;
+}

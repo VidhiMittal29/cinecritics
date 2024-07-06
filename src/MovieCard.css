@@ -1,0 +1,30 @@
+.card{
+    height: 3.3rem;
+    width: 20em;
+    display: flex;
+    gap: 1.5rem;
+    padding: 0.8rem 1.5rem;
+    align-items: center;
+    border-bottom: 1px solid rgba(235, 232, 228, 0.103);
+    border-radius: 10px;
+}
+.card>img{
+    height: 3.5rem;
+    width: 2.5rem;
+    color: white;
+    font-size: xx-small;
+}
+.card-input{
+    height: 3.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.card-title{
+    font-size: medium;
+}
+.card-year{
+    font-size: small;
+}
