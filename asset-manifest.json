@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cinecritics/static/css/main.b9b78638.css",
+    "main.js": "/cinecritics/static/js/main.33a559bd.js",
+    "index.html": "/cinecritics/index.html",
+    "main.b9b78638.css.map": "/cinecritics/static/css/main.b9b78638.css.map",
+    "main.33a559bd.js.map": "/cinecritics/static/js/main.33a559bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9b78638.css",
+    "static/js/main.33a559bd.js"
+  ]
+}
